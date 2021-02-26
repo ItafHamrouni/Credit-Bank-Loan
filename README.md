@@ -6,6 +6,7 @@ This is a Data Science project to elaborate Machine Learning Models are deployed
 
 ## Project Structure
 This project has four major parts :
+
 1.bank credit model.ipynb - this contains a whole process for project data science: calling, cleaning, Exploratory data analysis, processing, modeling and deployment.
 2.model.py - This contains code fot our Machine Learning model to predict credit loan status absed on trainig data in 'traincredit.csv' file.
 3.app.py - This contains Flask APIs that receives details through GUI or API calls, computes the precited value based on our model and returns it.
