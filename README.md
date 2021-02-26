@@ -1,7 +1,7 @@
 # Credit-Bank-Loan
 
 *** ***ML-Model-Flask-Deployment*** ***  
-This is a Data Science project to elaborate Machine Learning Models are deployed on production using Flask API.
+This is a Data Science project to elaborate Machine Learning Models and to deploy the right model on production using Flask API.
 (developed by : Python, Flask(on PyCharm))
 
 ## Project Structure
