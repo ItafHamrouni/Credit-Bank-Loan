@@ -19,11 +19,10 @@ This project has four major parts :
 ```
 python app.py
 ```
-This would create a serialized version of our model into a file model.pkl.
-By default, flask will run on port 5000.
+This would create a serialized version of our model into a file model.pkl.  
+By default, flask will run on port 5000.  
 
-Navigate to URL http://localhost:5000
-You should be able to view the homepage !
-Enter valid numerical values in all 5 input boxes and hit Predict.
-
-If everything goes well, you should be able to see the predcited credit loan status on the HTML page!
+Navigate to URL http://localhost:5000  
+You should be able to view the homepage !  
+Enter valid numerical values in all 5 input boxes and hit Predict.  
+If everything goes well, you should be able to see the predcited credit loan status on the HTML page!  
